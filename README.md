@@ -13,5 +13,5 @@ This repository contains examples of Gang of Four design patterns implemented in
 The Factory Method pattern provides an interface for creating objects in a superclass, but allows subclasses to alter the type of objects that will be created.
 
 #### Examples:
-- **[Main.java](creational/factory-method/factory/Region.java)**: The Region factory needs implementation of the abstract method renderFirstLife(), wich returns a moss.
+- **[Region.java](creational/factory-method/factory/Region.java)**: The Region factory needs implementation of the abstract method renderFirstLife(), wich returns a moss.
 - **[Main.java](creational/factory-method/Main.java)**: Initialize the example above.
