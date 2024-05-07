@@ -14,4 +14,4 @@ The Factory Method pattern provides an interface for creating objects in a super
 
 #### Examples:
 
-- **[MossesFactory.java](creational/factory_method/Main.java)**: Demonstrates how to create different types of mosses and regions using the Factory Method pattern.
+- **[Main.java](creational/factory-method/Main.java)**: Demonstrates how to create different types of mosses and regions using the Factory Method pattern.
