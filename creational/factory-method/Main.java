@@ -1,5 +1,5 @@
-import regions.ArcticRegion;
-import regions.DesertRegion;
+import factory.ArcticRegion;
+import factory.DesertRegion;
 
 public class Main {
   public static void main(String[] args) {

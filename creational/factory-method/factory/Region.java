@@ -1,4 +1,4 @@
-package regions;
+package factory;
 
 import mosses.Moss;
 
