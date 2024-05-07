@@ -14,4 +14,4 @@ The Factory Method pattern provides an interface for creating objects in a super
 
 #### Examples:
 - **[Main.java](creational/factory-method/factory/Region.java)**: The Region factory needs implementation of the abstract method renderFirstLife(), wich returns a moss.
-- **[Main.java](creational/factory-method/Main.java)**: Initialize the examples above.
+- **[Main.java](creational/factory-method/Main.java)**: Initialize the example above.
