@@ -8,5 +8,4 @@ public class DesertRegion extends Region {
   public Moss renderFirstLife() {
     return new DesertMoss();
   }
-
 }
